@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "261996716429",
+    "firebase_url": "https://expenditurecalc.firebaseio.com",
+    "project_id": "expenditurecalc",
+    "storage_bucket": "expenditurecalc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261996716429:android:6ee960ea0e8f09c5",
+        "android_client_info": {
+          "package_name": "com.example.idks.ecalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261996716429-k3a0d51k5hgiunk6eotmij7b1bdasvke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idks.ecalc",
+            "certificate_hash": "acc5267e840f1c7b6bbc072501cd203148ae12a3"
+          }
+        },
+        {
+          "client_id": "261996716429-banejlp8bbc3gqjm36p2e4bgprnh667r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVxJqDovx0AQ7msuFJumcscAdyx3Lfxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261996716429-banejlp8bbc3gqjm36p2e4bgprnh667r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261996716429:android:5dfaf663111d9bc9",
+        "android_client_info": {
+          "package_name": "com.example.idks.expenditurecalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261996716429-fa42rapecah04ermja7nilgo3avf4r0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idks.expenditurecalc",
+            "certificate_hash": "acc5267e840f1c7b6bbc072501cd203148ae12a3"
+          }
+        },
+        {
+          "client_id": "261996716429-banejlp8bbc3gqjm36p2e4bgprnh667r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVxJqDovx0AQ7msuFJumcscAdyx3Lfxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261996716429-banejlp8bbc3gqjm36p2e4bgprnh667r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExpenditureCalc</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Logout</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="addSal_button">Salary +</string>
+    <string name="addExp_button">Exp +</string>
+    <string name="calExpPer_button">Calc.</string>
+    <string name="login_name">Name</string>
+    <string name="login_password">Passowrd</string>
+    <string name="login_button">Login</string>
+    <string name="sendOTP_button">Check</string>
+    <string name="CheckOTP_button">Check OTP</string>
+    <string name="LogOut_button">Log Out</string>
+    <string name="accountSettings">Account</string>
+    <string name="menu_item_delete">Delete Menu</string>
+    <string name="menu_update">Update Menu</string>
+</resources>
